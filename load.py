@@ -1,4 +1,5 @@
 #!/usrs/bin/python3
+#12345
 #同步测试
 date_file = open("train_100",'r')
 data_list = data_file.readline()
